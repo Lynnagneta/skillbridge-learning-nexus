@@ -1,6 +1,7 @@
 SkillBridge
 SkillBridge is a modern web application designed to enhance the learning experience for African youth. It provides a centralized, engaging, and user-friendly platform for managing online courses, accessing learning schedules, and gaining valuable tech skills.
 
+https://drive.google.com/uc?id=1cjwQjQHubNpcwAkVFmGTW__qVG5Wkdfz&export=download
 🚀 Features
 🌍 African youth-centered digital learning platform
 👨‍🏫 Professional trainers from various tech fields
